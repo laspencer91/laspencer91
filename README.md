@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
 [![YouVersion](https://img.shields.io/badge/Tech_Lead_@_YouVersion-FF6B6B?style=for-the-badge)](https://bible.com)
-[![Games](https://img.shields.io/badge/8+_Published_Games-121212?style=for-the-badge&logo=steam&logoColor=white)](https://laspencer91.itch.io)
+[![Games](https://img.shields.io/badge/8+_Published_Games-121212?style=for-the-badge&logo=steam&logoColor=white)](https://silentcommando.itch.io)
 
 </div>
 
