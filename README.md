@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀 Logan Spencer
-### I solve the problems people say impossible.
+### I turn ambiguous problems into shipped products
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
 [![YouVersion](https://img.shields.io/badge/Tech_Lead_@_YouVersion-FF6B6B?style=for-the-badge)](https://bible.com)
@@ -20,9 +20,9 @@
 
 ## 🎯 What I Do
 
-I'm a Tech Lead who still ships code daily. I specialize in transforming "that's impossible" into "here's the PR." 
+I'm a Tech Lead who still ships code daily. I specialize in team multiplying tools, and solving problems before people know they exist.
 
-From real-time multiplayer frameworks to enterprise healthcare systems, from game engines to AI integrations—I navigate the territories others won't touch.
+From real-time multiplayer frameworks to enterprise healthcare systems, from game engines to AI integrations—I will travel wherever I am needed.
 
 ```javascript
 const logan = {
