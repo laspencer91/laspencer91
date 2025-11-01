@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>Currently architecting systems for 700+ million users at Bible.com</h3>
-  <p><i>Where teams fail, I deliver.</i></p>
+  <p><i>I deliver ON TIME, no matter what.</i></p>
 </div>
 
 ---
