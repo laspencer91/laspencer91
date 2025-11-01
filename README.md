@@ -22,7 +22,7 @@
 
 I'm a Tech Lead who still ships code daily. I specialize in team multiplying tools, and solving problems before people know they exist.
 
-From real-time multiplayer frameworks to enterprise healthcare systems, from game engines to AI integrations—I will travel wherever I am needed.
+From real-time multiplayer frameworks to enterprise healthcare systems, from game engines to AI integrations—I go wherever I am needed.
 
 ```javascript
 const logan = {
