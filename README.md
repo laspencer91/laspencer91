@@ -25,7 +25,7 @@ Before YouVersion, I shipped [8 published games](https://silentcommando.itch.io/
 
 ## Selected Work
 
-- **[ctx-engine](https://github.com/laspencer91/ctx-engine)** - Cross-project architectural knowledge system for AI coding agents. CLI & MCP usage.
+- **[Context Engine](https://github.com/laspencer91/ctx-engine)** - Cross-project architectural knowledge system for AI coding agents. CLI & MCP usage.
 - **[better-notes](https://github.com/laspencer91/better-notes)** — MCP server for Claude with full-text search, entity extraction, and git sync
 - **[QNet](https://github.com/laspencer91/QNet)** — UDP Networking library
 - **[2d-normal-map-painter](https://github.com/laspencer91/2d-normal-map-painter)** — Normal map tooling for 2D pixel art
