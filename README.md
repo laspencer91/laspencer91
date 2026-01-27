@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🚀 Logan Spencer
-### I turn ambiguous problems into shipped products
+# Logan Spencer
+### @ YouVersion · Building systems for 700M+ users
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
 [![YouVersion](https://img.shields.io/badge/Tech_Lead_@_YouVersion-FF6B6B?style=for-the-badge)](https://bible.com)
@@ -11,24 +11,25 @@
 
 ---
 
-<div align="center">
-  <h3>Currently architecting systems for 700+ million users at Bible.com</h3>
-  <p><i>I deliver ON TIME, no matter what.</i></p>
-</div>
+Leading platform architecture at [Bible.com](https://bible.com)—authentication frameworks, platform consolidation, and developer tooling.
 
----
+Recent work: multi-agent code operations (Claude Code + LangGraph + vector-indexed codebases), semantic search over Jira/GitLab for 50+ engineers, and CI/CD pipelines that catch LLM behavior regressions before they ship.
 
-## 🎯 What I Do
+Designed the authentication framework now used org-wide—server-side tokens, transparent refresh, no client exposure.
 
-I'm a Tech Lead who still ships code daily. I specialize in team multiplying tools, and solving problems before people know they exist.
+## Background
 
-From real-time multiplayer frameworks to enterprise healthcare systems, from game engines to AI integrations—I go wherever I am needed.
+I've spent the last decade building across domains—real-time multiplayer systems, enterprise healthcare platforms, game engines, and large-scale distributed systems. I'm most interested in the intersection of developer tooling and system design.
 
-```javascript
-const logan = {
-  role: "Tech Lead @ YouVersion",
-  usersImpacted: "700M+",
-  approach: "Ship first, philosophize later",
-  superpower: "Making complex things simple",
-  kryptonite: "Meetings about meetings"
-} as const;
+Before YouVersion, I shipped [8 published games](https://silentcommando.itch.io/) and built multiplayer frameworks from scratch.
+
+## Selected Work
+
+- **[better-notes](https://github.com/laspencer91/better-notes)** — MCP server for Claude with full-text search, entity extraction, and git sync
+- **[QNet](https://github.com/laspencer91/QNet)** — UDP Networking library
+- **[2d-normal-map-painter](https://github.com/laspencer91/2d-normal-map-painter)** — Normal map tooling for 2D pixel art
+
+## Links
+
+- [loganspencer.dev](https://loganspencer.dev)
+- [@silentcgames](https://twitter.com/silentcgames)
