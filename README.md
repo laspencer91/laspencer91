@@ -1,6 +1,7 @@
 <div align="center">
   
 # Logan Spencer
+
 ### @ YouVersion · Building systems for 700M+ users
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
@@ -32,5 +33,5 @@ Before YouVersion, I shipped [8 published games](https://silentcommando.itch.io/
 
 ## Links
 
-- [loganspencer.dev](https://loganspencer.dev)
+- [INTERVIEW ME - AI CLONE](https://www.loganspencer.dev)
 - [@silentcgames](https://twitter.com/silentcgames)
