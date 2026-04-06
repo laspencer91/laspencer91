@@ -20,7 +20,7 @@ Stack: Next.js, TypeScript, Drizzle ORM, oRPC, PostgreSQL, Docker. Real-time sys
 
 I've spent the last decade building across domains — real-time multiplayer systems, enterprise healthcare platforms, game engines, and large-scale distributed systems. I'm most interested in the intersection of developer tooling and system design.
 
-Previously led platform architecture at [YouVersion (Bible.com)](https://bible.com) — authentication frameworks, platform consolidation, and developer tooling for 700M+ users. Built multi-agent code operations, semantic search across Jira/GitLab for 50+ engineers, and CI/CD pipelines that catch LLM behavior regressions before they ship.
+Previously led Internal Tools at [YouVersion (Bible.com)](https://bible.com) — authentication frameworks, platform consolidation, and developer tooling for 700M+ users. Built multi-agent code operations, semantic search across Jira/GitLab for 50+ engineers, and CI/CD pipelines that catch LLM behavior regressions before they ship.
 
 Before that, I shipped [8 published games](https://silentcommando.itch.io/) and built multiplayer frameworks from scratch.
 
