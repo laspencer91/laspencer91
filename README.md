@@ -1,28 +1,28 @@
 <div align="center">
-  
+
 # Logan Spencer
 
-### @ YouVersion · Building systems for 700M+ users
+### Head of Engineering @ LMS Technology · Edmond, OK
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
-[![YouVersion](https://img.shields.io/badge/Tech_Lead_@_YouVersion-FF6B6B?style=for-the-badge)](https://bible.com)
+[![LMS Technology](https://img.shields.io/badge/Head_of_Engineering_@_LMS_Technology-2563EB?style=for-the-badge)](https://lmscpa.com)
 [![Games](https://img.shields.io/badge/8+_Published_Games-121212?style=for-the-badge&logo=steam&logoColor=white)](https://silentcommando.itch.io)
 
 </div>
 
 ---
 
-Leading platform architecture at [Bible.com](https://bible.com)—authentication frameworks, platform consolidation, and developer tooling.
+Sole engineer at [LMS Technology](https://lmscpa.com) — designing, building, and shipping the company's entire product suite from the ground up. Full-stack systems across medical billing, bookkeeping, monitoring, and delivery logistics — each with its own auth, CI/CD, and production infrastructure.
 
-Recent work: multi-agent code operations (Claude Code + LangGraph + vector-indexed codebases), semantic search over Jira/GitLab for 50+ engineers, and CI/CD pipelines that catch LLM behavior regressions before they ship.
-
-Designed the authentication framework now used org-wide—server-side tokens, transparent refresh, no client exposure.
+Stack: Next.js, TypeScript, Drizzle ORM, oRPC, PostgreSQL, Docker. Real-time systems via SSE, AI-powered workflows with Claude, and centralized SSO across the platform.
 
 ## Background
 
-I've spent the last decade building across domains—real-time multiplayer systems, enterprise healthcare platforms, game engines, and large-scale distributed systems. I'm most interested in the intersection of developer tooling and system design.
+I've spent the last decade building across domains — real-time multiplayer systems, enterprise healthcare platforms, game engines, and large-scale distributed systems. I'm most interested in the intersection of developer tooling and system design.
 
-Before YouVersion, I shipped [8 published games](https://silentcommando.itch.io/) and built multiplayer frameworks from scratch.
+Previously led platform architecture at [YouVersion (Bible.com)](https://bible.com) — authentication frameworks, platform consolidation, and developer tooling for 700M+ users. Built multi-agent code operations, semantic search across Jira/GitLab for 50+ engineers, and CI/CD pipelines that catch LLM behavior regressions before they ship.
+
+Before that, I shipped [8 published games](https://silentcommando.itch.io/) and built multiplayer frameworks from scratch.
 
 ## Selected Work
 
