@@ -5,7 +5,7 @@
 ### Software Architect @ LMS Technology · Edmond, OK
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
-[![LMS Technology](https://img.shields.io/badge/Software Architect_@_LMS_Technology-2563EB?style=for-the-badge)](https://lmscpa.com)
+[![LMS Technology](https://img.shields.io/badge/Software_Architect_@_LMS_Technology-2563EB?style=for-the-badge)](https://lmscpa.com)
 [![Games](https://img.shields.io/badge/8+_Published_Games-121212?style=for-the-badge&logo=steam&logoColor=white)](https://silentcommando.itch.io)
 
 </div>
