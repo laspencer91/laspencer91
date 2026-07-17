@@ -2,7 +2,7 @@
 
 # Logan Spencer
 
-### Software Architect @ LMS Technology · Edmond, OK
+### LMS Technology · Edmond, OK
 
 [![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
 [![LMS Technology](https://img.shields.io/badge/Software_Architect_@_LMS_Technology-2563EB?style=for-the-badge)](https://lmscpa.com)
