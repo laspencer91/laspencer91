@@ -2,36 +2,41 @@
 
 # Logan Spencer
 
-### LMS Technology · Edmond, OK
+### Software Architect · Gameplay & Tools Programmer · Oklahoma City, OK
 
-[![Website](https://img.shields.io/badge/🌐_loganspencer.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganspencer.dev)
-[![LMS Technology](https://img.shields.io/badge/Software_Architect_@_LMS_Technology-2563EB?style=for-the-badge)](https://lmscpa.com)
-[![Games](https://img.shields.io/badge/8+_Published_Games-121212?style=for-the-badge&logo=steam&logoColor=white)](https://silentcommando.itch.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-loganspencer.dev-111111?style=for-the-badge)](https://loganspencer.dev)
+[![Game Development](https://img.shields.io/badge/Game_Development-Portfolio-2563EB?style=for-the-badge)](https://imakesoftware.studio/game-dev)
+[![IMAKE Games](https://img.shields.io/badge/Tools-IMAKE_Games-121212?style=for-the-badge)](https://imakegames.studio)
 
 </div>
 
 ---
 
-Leading Software Architecture at [LMS Technology](https://lmscpa.com) — designing, building, and shipping the company's entire product suite from the ground up. Full-stack systems across medical billing, bookkeeping, monitoring, and delivery logistics — each with its own auth, CI/CD, and production infrastructure.
+I'm a software engineer and U.S. Air Force veteran with nine years of professional software experience. My background spans production software architecture, commercial game-development contracts, independent games, multiplayer systems, and developer tools.
 
-Stack: Next.js, TypeScript, Drizzle ORM, oRPC, PostgreSQL, Docker. Real-time systems via SSE, AI-powered workflows with Claude, and centralized SSO across the platform.
+I currently work as a **Software Architect at LMS Technology**. In game development, I've contributed professionally as a tools programmer on **HYPERVIOLENT** and as a **Unity/C# gameplay programmer on Sacrificio**, working on AI, performance, save systems, and release-blocking bugs.
 
-## Background
+My independent work is systems-focused: gameplay programming, networking, editor tooling, and content pipelines. I also work across the asset side of development with **Blender, Substance Designer/Painter, REAPER, and FMOD**, including PBR materials, custom sounds and soundscapes, and some 3D modeling and animation.
 
-I've spent the last decade building across domains — real-time multiplayer systems, enterprise healthcare platforms, game engines, and large-scale distributed systems. I'm most interested in the intersection of developer tooling and system design.
+## Selected Game & Tools Work
 
-Previously led Internal Tools at [YouVersion (Bible.com)](https://bible.com) — authentication frameworks, platform consolidation, and developer tooling for 1 Billion users. Built multi-agent code operations, semantic search across Jira/GitLab for 50+ engineers, and CI/CD pipelines that catch LLM behavior regressions before they ship.
+- **[Salvation's Descent / FPS Mechanics Prototype](https://github.com/laspencer91/salvations-descent)** — Earlier Unity/C# FPS prototype featuring modular AI, Quake-style movement, weapons, event-driven interactions, and custom editor tooling. Developed before I began using AI coding assistants.
+- **PROLINE** — Multiplayer FPS in development in Unreal Engine 5, with server-authoritative movement and combat, prediction/interpolation, procedural first-person weapon motion, and custom mapping tools.
+- **[2D Normal Map Painter](https://github.com/laspencer91/2d-normal-map-painter)** — C++/Qt normal-map painting tool for pixel art.
+- **[QNet](https://github.com/laspencer91/QNet)** — UDP networking library developed for multiplayer game experimentation.
+- **[IMAKE Games](https://imakegames.studio)** — Skybox, Clip Lab, and Materialist: tools supporting procedural skies, game audio, and PBR material workflows.
 
-Before that, I shipped [8 published games](https://silentcommando.itch.io/) and built multiplayer frameworks from scratch.
+## Software Engineering
 
-## Selected Work
+At **LMS Technology**, I design and ship production application systems and delivery infrastructure.
 
-- **[Context Engine](https://github.com/laspencer91/ctx-engine)** - Cross-project architectural knowledge system for AI coding agents. CLI & MCP usage.
-- **[better-notes](https://github.com/laspencer91/better-notes)** — MCP server for Claude with full-text search, entity extraction, and git sync
-- **[QNet](https://github.com/laspencer91/QNet)** — UDP Networking library
-- **[2d-normal-map-painter](https://github.com/laspencer91/2d-normal-map-painter)** — Normal map tooling for 2D pixel art
+Previously, I was a **Senior Engineer → Staff Engineer at YouVersion**, where I led internal-tools engineering and worked on authentication, platform consolidation, developer tooling, and engineering standards.
+
+My broader software background includes C#, C++, TypeScript, SQL, real-time systems, APIs, CI/CD, and production healthcare and operations software.
 
 ## Links
 
-- [INTERVIEW ME - AI CLONE](https://www.loganspencer.dev)
-- [@silentcgames](https://twitter.com/silentcgames)
+- [Portfolio](https://loganspencer.dev)
+- [Game development](https://imakesoftware.studio/game-dev)
+- [IMAKE Games](https://imakegames.studio)
+- [FPS Mechanics Prototype on itch.io](https://imakegames-studios.itch.io/fps-mechanics-prototype)
