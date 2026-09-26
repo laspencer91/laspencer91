@@ -21,6 +21,7 @@ My independent work is systems-focused: gameplay programming, networking, editor
 ## Selected Game & Tools Work
 
 - **[Salvation's Descent / FPS Mechanics Prototype](https://github.com/laspencer91/salvations-descent)** — Earlier Unity/C# FPS prototype featuring modular AI, Quake-style movement, weapons, event-driven interactions, and custom editor tooling. Developed before I began using AI coding assistants.
+- **[Multiplayer Platform Shooter](https://github.com/laspencer91/MultiplayerPlatformShooter)** — Earlier Unity/C# multiplayer prototype exploring server-authoritative gameplay, game sessions, spawning, weapons, and legacy Unity networking APIs.
 - **PROLINE** — Multiplayer FPS in development in Unreal Engine 5, with server-authoritative movement and combat, prediction/interpolation, procedural first-person weapon motion, and custom mapping tools.
 - **[2D Normal Map Painter](https://github.com/laspencer91/2d-normal-map-painter)** — C++/Qt normal-map painting tool for pixel art.
 - **[QNet](https://github.com/laspencer91/QNet)** — UDP networking library developed for multiplayer game experimentation.
