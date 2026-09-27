@@ -5,7 +5,7 @@
 ### Software Architect · Gameplay & Tools Programmer · Oklahoma City, OK
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-loganspencer.dev-111111?style=for-the-badge)](https://loganspencer.dev)
-[![Game Development](https://img.shields.io/badge/Game_Development-Portfolio-2563EB?style=for-the-badge)](https://imakesoftware.studio/game-dev)
+[![Technical Demos](https://img.shields.io/badge/Technical_Demos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@I.MAKE.GAMES.STUDIO)
 [![IMAKE Games](https://img.shields.io/badge/Tools-IMAKE_Games-121212?style=for-the-badge)](https://imakegames.studio)
 
 </div>
